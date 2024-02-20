@@ -17,33 +17,33 @@
  * 추후 연구자료 첨부 예정
 ---
 3. 기술 스텍
-<img src="./images/tech.png" width="200" height="100"/>
+<img src="./images/tech.png" width="500" height="300"/>
 
 ---
 4. Flow Chart
-<img align="left" src="./images/workflow.png" width="300" height="150"/>
-<img align="left" src="./images/dataflow.png" width="300" height="150"/>
+<img align="left" src="./images/workflow.png" width="300" height="200"/>
+<img align="left" src="./images/dataflow.png" width="300" height="200"/>
 
 ---
 5. 사용 모델 & 모델 선정
 * MediaPipe 'Blazepose model', OpenCV 'Canny model'
 
-<img src="./images/blazepose1.png" width="300" height="150"/>
-<img src="./images/blazepose2.png" width="300" height="150"/>
+<img align="left" src="./images/blazepose1.png" width="300" height="200"/>
+<img align="left" src="./images/blazepose2.png" width="300" height="200"/>
 
 ---
 6. 핵심 기술 & Inferenece
-<img src="./images/angle_inference.png" width="100" height="200"/>
-<img src="./floating_inference.png" width="200" height="200"/>
-<img src="./images/edge_inference.png" width="100" height="200"/>
+<img align="left" src="./images/angle_inference.png" width="150" height="250"/>
+<img align="left" src="./floating_inference.png" width="300" height="200"/>
+<img align="left" src="./images/edge_inference.png" width="150" height="250"/>
 <img src="./images/unity_inference.png" width="200" height="300"/>
 ---
 7. Demo App (Image)
-<img src="./images/1" width="100.png" height="200"/>
-<img src="./images/2" width="100.png" height="200"/>
-<img src="./images/3" width="100.png" height="200"/>
-<img src="./images/4" width="100.png" height="200"/>
-<img src="./images/5" width="100.png" height="200"/>
-<img src="./images/6" width="100.png" height="200"/>
-<img src="./images/7" width="100.png" height="200"/>
+<img align="left" src="./images/1" width="100.png" height="200"/>
+<img align="left" src="./images/2" width="100.png" height="200"/>
+<img align="left" src="./images/3" width="100.png" height="200"/>
+<img align="left" src="./images/4" width="100.png" height="200"/>
+<img align="left" src="./images/5" width="100.png" height="200"/>
+<img align="left" src="./images/6" width="100.png" height="200"/>
+<img align="left" src="./images/7" width="100.png" height="200"/>
 ---
