@@ -39,11 +39,11 @@
 <img src="./images/unity_inference.png" width="200" height="300"/>
 ---
 7. Demo App (Image)
-<img align="left" src="./images/1" width="100.png" height="200"/>
-<img align="left" src="./images/2" width="100.png" height="200"/>
-<img align="left" src="./images/3" width="100.png" height="200"/>
-<img align="left" src="./images/4" width="100.png" height="200"/>
-<img align="left" src="./images/5" width="100.png" height="200"/>
-<img align="left" src="./images/6" width="100.png" height="200"/>
-<img align="left" src="./images/7" width="100.png" height="200"/>
+<img align="left" src="./images/1.png" width="100.png" height="200"/>
+<img align="left" src="./images/2.png" width="100.png" height="200"/>
+<img align="left" src="./images/3.png" width="100.png" height="200"/>
+<img align="left" src="./images/4.png" width="100.png" height="200"/>
+<img align="left" src="./images/5.png" width="100.png" height="200"/>
+<img align="left" src="./images/6.png" width="100.png" height="200"/>
+<img align="left" src="./images/7.png" width="100.png" height="200"/>
 ---
