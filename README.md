@@ -49,8 +49,8 @@
 
 ## 6. 핵심 기술 & Inferenece
 <img align="left" src="./images/angle_inference.png" width="150" height="250"/>
-<img src="./float.png" width="300" height="200"/>
-<img src="./images/edge_inference.png" width="150" height="250"/>
+<img src="./images/float.png" width="300" height="200"/>
+<img align="left" src="./images/edge_inference.png" width="150" height="250"/>
 <img src="./images/unity_inference.png" width="200" height="300"/>
 
 ---
