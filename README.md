@@ -47,21 +47,21 @@
 ---
 ---
 
-6. 핵심 기술 & Inferenece
+## 6. 핵심 기술 & Inferenece
 <img align="left" src="./images/angle_inference.png" width="150" height="250"/>
-<img align="left" src="./float.png" width="300" height="200"/>
-<img align="left" src="./images/edge_inference.png" width="150" height="250"/>
-<img align="left" src="./images/unity_inference.png" width="200" height="300"/>
+<img src="./float.png" width="300" height="200"/>
+<img src="./images/edge_inference.png" width="150" height="250"/>
+<img src="./images/unity_inference.png" width="200" height="300"/>
 
 ---
 ---
 
-7. Demo App (Image)
+## 7. Demo App (Image)
 <img align="left" src="./images/1.png" width="100.png" height="200"/>
-<img align="left" src="./images/2.png" width="100.png" height="200"/>
-<img align="left" src="./images/3.png" width="100.png" height="200"/>
-<img align="left" src="./images/4.png" width="100.png" height="200"/>
-<img align="left" src="./images/5.png" width="100.png" height="200"/>
-<img align="left" src="./images/6.png" width="100.png" height="200"/>
-<img align="left" src="./images/7.png" width="100.png" height="200"/>
+<img src="./images/2.png" width="100.png" height="200"/>
+<img src="./images/3.png" width="100.png" height="200"/>
+<img src="./images/4.png" width="100.png" height="200"/>
+<img src="./images/5.png" width="100.png" height="200"/>
+<img src="./images/6.png" width="100.png" height="200"/>
+<img src="./images/7.png" width="100.png" height="200"/>
 ---
