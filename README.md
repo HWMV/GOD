@@ -10,7 +10,7 @@
 ---
 
 # 목 차
-1. 프로젝트 소개
+## 1. 프로젝트 소개
  * 스트레스와 우울감이 많은 현대인들에게 건전한 해소 방법을 제공 하는 앱
  * 어떤 것보다 흥미로운 운동을 할 수 있게 해주는 앱
  * 누구나 춤으로 자신만의 장기를 만들 수 있는 앱
@@ -19,26 +19,26 @@
 ---
 ---
 
-2. 프로젝트 배경
+## 2. 프로젝트 배경
  * 추후 연구자료 첨부 예정
 
 ---
 ---
 
-3. 기술 스텍
+## 3. 기술 스텍
 <img src="./images/tech.png" width="500" height="300"/>
 
 ---
 ---
 
-4. Flow Chart
-<img align="left" src="./images/workflow.png" width="300" height="200"/>
-<img align="left" src="./images/dataflow.png" width="300" height="200"/>
+## 4. Flow Chart
+<img src="./images/workflow.png" width="300" height="200" align="left"/>
+<img src="./images/dataflow.png" width="300" height="200"/>
 
 ---
 ---
 
-5. 사용 모델 & 모델 선정
+## 5. 사용 모델 & 모델 선정
 * MediaPipe 'Blazepose model', OpenCV 'Canny model'
 
 <img align="left" src="./images/blazepose1.png" width="300" height="200"/>
