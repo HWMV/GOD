@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "820999029161",
+    "project_id": "go-dance-up-4d67b",
+    "storage_bucket": "go-dance-up-4d67b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820999029161:android:911639c6f64dd37d0dc4b8",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdkh7h4LAnznmMlLCzxHXYSlWuYN3Ij6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820999029161:android:4b3690a48941b7e30dc4b8",
+        "android_client_info": {
+          "package_name": "com.example.go_dance_up"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdkh7h4LAnznmMlLCzxHXYSlWuYN3Ij6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

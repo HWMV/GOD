@@ -1,0 +1,60 @@
+name: god
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^1.0.7
+  camera: ^0.10.5+9
+  video_player: ^2.8.2
+  image_gallery_saver: ^2.0.3
+  dio: ^5.4.0
+  shared_preferences: ^2.0.12
+  audioplayers: ^5.2.1
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.24.2
+  http: ^1.2.0
+  file_picker: ^6.1.1
+  firebase_auth: ^4.16.0
+  screen_recorder: ^0.2.0
+  permission_handler: ^11.2.0
+  flutter_gif: ^0.0.4
+  # tflite_flutter: ^0.10.4
+  path_provider: ^2.1.2
+  path: ^1.9.0 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.1
+
+flutter:
+  
+  uses-material-design: true
+  assets:
+    - assets/images/homeBackground.jpg
+    - assets/images/loginBackground.jpg
+    - assets/images/uploadBackground.jpg
+    - assets/images/tr_canny_sample.gif
+    - assets/images/canny01.gif
+
+    - assets/video/canny_sample.mp4
+    - assets/video/origin_sample.mp4
+    - assets/audio/le-sserafim-reuserapim-perfect-night.mp3
+    - assets/video/tr_canny_sample.mp4
+    
+    
+  fonts:
+  - family: Honk
+    fonts: 
+    - asset: assets/fonts/Honk-Regular-VariableFont_MORF,SHLN.ttf
+
