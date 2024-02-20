@@ -42,7 +42,7 @@
 * MediaPipe 'Blazepose model', OpenCV 'Canny model'
 
 <img align="left" src="./images/blazepose1.png" width="300" height="200"/>
-<img align="left" src="./images/blazepose2.png" width="300" height="200"/>
+<img src="./images/blazepose2.png" width="300" height="200"/>
 
 ---
 ---
