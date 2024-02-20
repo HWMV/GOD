@@ -48,8 +48,17 @@
 ---
 
 ## 6. 핵심 기술 & Inferenece
+* 좌측 이미지부터
+1. pose estimation & angle extraction & evaluate score
+2. Edge Detection & Floating
+3. Edge video on Real-Time Device Cam
+4. Unity MediaPipe 'holistic' Use on Flutter
+
+---
+
 <img align="left" src="./images/angle_inference.png" width="150" height="250"/>
 <img src="./images/float.png" width="300" height="200"/>
+
 <img align="left" src="./images/edge_inference.png" width="150" height="250"/>
 <img src="./images/unity_inference.png" width="200" height="300"/>
 
