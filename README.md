@@ -40,6 +40,9 @@
 
 ## 5. 사용 모델 & 모델 선정
 * MediaPipe 'Blazepose model', OpenCV 'Canny model'
+* PCK @ 0.2 로 성능 비교 결과 '춤'에 관한 Task들은 'Blazepose' 모델이 성능 최고
+* OpenPose vs BlazePose Fps 비교 : BlazePose가 25~75배 이상 높은 것으로 확인
+* 결과 : MediaPipe 활용
 
 <img align="left" src="./images/blazepose1.png" width="300" height="200"/>
 <img src="./images/blazepose2.png" width="300" height="200"/>
@@ -82,4 +85,4 @@
 
 3. Avatar mode
 <img src="./images/7.png" width="100.png" height="200"/>
----
+
