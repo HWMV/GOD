@@ -21,8 +21,8 @@
 
 ---
 4. Flow Chart
-<img src="./images/workflow.png" width="300" height="150"/>
-<img src="./images/dataflow.png" width="300" height="150"/>
+<img align="left" src="./images/workflow.png" width="300" height="150"/>
+<img align="left" src="./images/dataflow.png" width="300" height="150"/>
 
 ---
 5. 사용 모델 & 모델 선정
